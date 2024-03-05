@@ -1,0 +1,32 @@
+{
+    "name": "@yadongofficial/Nodestea",
+    "version": "0.0.1",
+    "description": "Tea testnet",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yadongofficial/Nodestea.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "Yadong Official",
+        "email": "Yadong.official@gmail.com",
+        "url": "https://bradgarropy.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yadongofficial/nodestea/issues"
+    },
+    "homepage": "https://github.com/yadongofficial/nodestea#readme"
+}

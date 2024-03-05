@@ -1,1 +1,2 @@
-# tey_lalala
+# Nodestea
+Tea testnet
